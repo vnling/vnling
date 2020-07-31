@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img src = "bw-banner-text.gif" width = 1200>
+<img src = "https://github.com/vnling/vnling/blob/master/bw-banner-text.gif" width = 1200>
 
 I'm a coder who is fascinated by the various intersections between STEM and the social sciences, and believes deeply in the power of tech for social good! Some languages/technologies I enjoy working with are Python (pandas, NumPy, Matplotlib), C++, HTML/CSS, and Tensorflow. This academic year, I'm interested in learning more about artificial intelligence and computational modelling. 
 
